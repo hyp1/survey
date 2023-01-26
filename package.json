@@ -1,0 +1,24 @@
+{
+  "name": "survey",
+  "version": "1.0.0",
+  "description": "Survey Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyp1/survey.git"
+  },
+  "keywords": [
+    "Survey",
+    "Database",
+    "Webapp"
+  ],
+  "author": "robert_schweng@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyp1/survey/issues"
+  },
+  "homepage": "https://github.com/hyp1/survey#readme"
+}
